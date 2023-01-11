@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 16px;
+    max-width: 1440px;
+    scroll-behavior: smooth;
+}
+
+
+.js_class_h1____style___isRed{
+background-color: red;
+}
+ 
+.js_class_h1___style___isToggle{
+    background-color: blue;
+    color:green
+}
